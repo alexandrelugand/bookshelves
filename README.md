@@ -25,3 +25,14 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+<br/>
+
+# Firebase
+
+First, install Firebase CLI with command `npm install -g firebase-tools`
+
+Run `firebase deploy` to deploy production web app on Firebase
+
+- [Firebase console](https://console.firebase.google.com/project/lugand-bookshelves/overview)
+- [Online web app](https://lugand-bookshelves.web.app/)
