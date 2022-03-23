@@ -4,6 +4,7 @@
   "tasks": [
     {
       "type": "npm",
+      "options": {"shell": {"executable": "PowerShell"}},
       "script": "start",
       "isBackground": true,
       "problemMatcher": {
@@ -22,6 +23,7 @@
     },
     {
       "type": "npm",
+      "options": {"shell": {"executable": "PowerShell"}},
       "script": "test",
       "isBackground": true,
       "problemMatcher": {
